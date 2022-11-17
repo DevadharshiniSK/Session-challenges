@@ -1,0 +1,9 @@
+# Session-challenges
+prg1 output:
+![Screenshot (185)](https://user-images.githubusercontent.com/98697420/202514376-b6aca3f6-e5e5-4047-bd73-14e5f2225802.png)
+prg2 output:
+![Screenshot (186)](https://user-images.githubusercontent.com/98697420/202514487-cbac9341-f0bc-4e29-bb63-014f53c8d476.png)
+prg3 output:
+![Screenshot (187)](https://user-images.githubusercontent.com/98697420/202514609-36ba6e69-d9e0-4793-bea4-5e2e2aec8bd5.png)
+prg4 output:
+![Screenshot (10)](https://user-images.githubusercontent.com/98697420/202514016-6c41c7a6-cb12-4a90-90d2-5fad033c705f.png)
